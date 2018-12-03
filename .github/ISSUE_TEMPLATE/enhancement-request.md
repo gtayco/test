@@ -1,6 +1,6 @@
 ---
-name: Feature request
-about: Use to request new features to the application
+name: Enhancement Request
+about: Use this template to identify improvements to the software
 
 ---
 
