@@ -1,8 +1,11 @@
 ---
 name: Enhancement Request
-about: Use this template to identify improvements to the software
+about: Use this template to identify improvements to the existing application
 
 ---
+
+**//Remember to add the label enhancement//**
+
 
 **User Story (brief description in 1-2 sentences):**
 As X I ....

@@ -4,6 +4,8 @@ about: Use to report bugs
 
 ---
 
+**//Remember to add the label Bug//**
+
 **Describe the bug/problem**
 As X I see/get/cannot....
 
